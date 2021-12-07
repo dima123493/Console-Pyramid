@@ -78,4 +78,3 @@ namespace Console_pyramid
         }
     }
 }
-//Some test here
